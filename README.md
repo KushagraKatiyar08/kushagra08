@@ -1,3 +1,3 @@
-Name : Kushagra Katiyar
-ID : 25LBCS1110
-Salary : 0.0
+Name : Kushagra Katiyar  
+ID : 25LBCS1110  
+Salary : 0.0  
